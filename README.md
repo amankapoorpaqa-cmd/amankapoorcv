@@ -1,4 +1,4 @@
-[aman_resume.html](https://github.com/user-attachments/files/26032947/aman_resume.html)
+[index.html](https://github.com/user-attachments/files/26032947/aman_resume.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
